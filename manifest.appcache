@@ -1,10 +1,24 @@
 CACHE MANIFEST
-# Revision 1406866493936
+# Revision 1408927245371
 
 CACHE:
 index.html
-my_personality/README.html
-my_personality/suffer_difficulity.html
+career/README.html
+career/events.html
+career/expe-frontier.html
+career/experience.html
+career/guqilong.html
+career/zentao.html
+future/README.html
+in/README.html
+in/ideal.html
+in/new.html
+in/plan.html
+in/status.html
+in/target.html
+links/README.html
+links/selfhosted.html
+school/README.html
 gitbook\app.js
 gitbook\fonts\fontawesome\FontAwesome.otf
 gitbook\fonts\fontawesome\fontawesome-webfont.eot
